@@ -1,0 +1,15 @@
+{
+  "name": "qa-test-app",
+  "version": "1.0.0",
+  "description": "app to run automated test scripts",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Parker",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.0.2"
+  }
+}
